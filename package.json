@@ -1,7 +1,7 @@
 {
   "name": "server-port",
-  "version": "0.0.1",
-  "description": "Interfaces(port) para frameworks node",
+  "version": "0.0.4",
+  "description": "Conjunto de interfaces para Arquitetura Limpa, auxilia a implementação do SOLID no TypeScript a nivel de framework",
   "private": false,
   "main": "./src/index.ts",
   "preferGlobal": true,
