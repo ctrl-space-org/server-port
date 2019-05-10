@@ -1,13 +1,13 @@
 {
   "name": "server-port",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Conjunto de interfaces para Arquitetura Limpa, auxilia a implementação do SOLID no TypeScript a nivel de framework",
   "private": false,
   "main": "./src/index.ts",
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sombratwo/server-port.git"
+    "url": "git+https://github.com/ctrl-space-org/server-port.git"
   },
   "keywords": [
     "port",
@@ -15,12 +15,12 @@
     "express",
     "restify"
   ],
-  "author": "Leonardo Lucas dos Santos",
+  "author": "Leonardo Lucas dos Santos - @sombratwo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sombratwo/server-port/issues"
+    "url": "https://github.com/ctrl-space-org/server-port/issues"
   },
-  "homepage": "https://github.com/sombratwo/server-port#readme",
+  "homepage": "https://github.com/ctrl-space-org/server-port#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^1.7.0",
     "@typescript-eslint/parser": "^1.7.0",
