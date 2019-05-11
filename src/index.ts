@@ -1,4 +1,6 @@
-import { Response, Request } from './Ports/http'
+import { Request } from './Ports/Request'
+import ResponseInterface from './Ports/Response'
+
 import { Router } from './Ports/Router'
 import { Server } from './Ports/Server'
-export { Response, Request, Router, Server }
+export { ResponseInterface as Response, Request, Router, Server }
