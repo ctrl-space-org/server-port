@@ -1,6 +1,6 @@
 {
   "name": "server-port",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Conjunto de interfaces para Arquitetura Limpa, auxilia a implementação do SOLID no TypeScript a nivel de framework",
   "private": false,
   "main": "./src/index.ts",
