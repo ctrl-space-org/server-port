@@ -3,4 +3,6 @@ export interface Router {
     get(path: string, handler: Function): void
     path(path: string, handler: Function): void
     patch(path: string, handler: Function): void
+    use(handler: Function): void
+
 };
