@@ -1,4 +1,4 @@
 export interface Plugins {
-    json():Function
+    json():any
     multiPart():Function
 };
